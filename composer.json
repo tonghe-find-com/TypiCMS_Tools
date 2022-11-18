@@ -1,0 +1,15 @@
+{
+    "name": "tonghe/tools",
+    "autoload": {
+        "psr-4": {
+            "Tonghe\\Typicms\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "H-H-Liao",
+            "email": "liao@wanliroad.com"
+        }
+    ],
+    "require": {}
+}
